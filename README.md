@@ -3,7 +3,6 @@
 <!--
 **ananyap18/ananyap18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif
 - **Hello I am Ananya. I am a coder, developer and a sophomore at VIT**
 - 🔭 I’m currently working on a AI project
 - 🌱 I’m currently learning to use AWS
