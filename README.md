@@ -14,5 +14,7 @@
 - ⚡ Fun fact: I am a baker and artist check out my art page: https://www.instagram.com/thecloudtales/?hl=en
 - ⚡ All time favourite shows to watch : TBBT and Friends, recently inclined towards Kdramas.
 
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ananyap18)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ananyap18&repo=ananyap18)
+
