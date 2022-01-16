@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ananyap18/ananyap18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ananyap18/ananyap18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif
 - **Hello I am Ananya. I am a coder, developer and a sophomore at VIT**
@@ -14,7 +14,6 @@ https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a baker and artist check out my art page: https://www.instagram.com/thecloudtales/?hl=en
 - ⚡ All time favourite shows to watch : TBBT and Friends, recently inclined towards Kdramas.
--->
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ananyap18)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ananyap18&repo=ananyap18)
-![counter](https://[YourEndpoint].m.pipedream.net)
