@@ -5,7 +5,7 @@
 
 - **✨Hello I am Ananya 👋. I am a coder, developer and a sophomore at VIT✨**
 - 🔭 I’m currently working on a AI project
-- 🌱 I’m currently learning to use AWS
+- 🌱 I’m currently learning to use microsoft azure
 - 👯 I'm a part of MLSA community
 - 🤔 I’m a beginner in MERN and Data analysis (Python)
 - 💬 I'm interested in cloud computing
