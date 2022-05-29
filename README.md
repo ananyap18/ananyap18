@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a AI project
 - 🌱 I’m currently learning to use microsoft azure
 - 👯 I'm a part of MLSA community
-- 🤔 I’m a beginner in MERN and Data analysis (Python)
+- 🤔 I’m a beginner in MERN
 - 💬 I'm interested in cloud computing
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ananyaprasad2307/
 - 😄 Pronouns: She/Her
